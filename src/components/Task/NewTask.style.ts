@@ -58,6 +58,7 @@ export const StyledTaskCard = styled.div`
   label {
     display: flex;
     gap: 12px;
+    align-items: center;
   }
 
   p {

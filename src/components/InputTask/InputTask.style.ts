@@ -30,6 +30,7 @@ export const StyledInputTask = styled.div`
     border-radius: 8px;
     border: none;
     display: flex;
+    align-items: center;
     gap: 8px;
     color: var(--gray-100);
     font-weight: 700;
